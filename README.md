@@ -1,2 +1,3 @@
 # MyTestRepos
-for stepik course
+Тестовый репозиторий для курса 
+https://stepik.org/course/575
